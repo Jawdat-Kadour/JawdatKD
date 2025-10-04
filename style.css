@@ -1486,19 +1486,19 @@ html {
 
 /* --- Animation Utilities --- */
 .anim-slide-up {
-    animation: slideUp 1.2s cubic-bezier(.2, .6, .2, 1) both
+    animation: slideUp 1.0s cubic-bezier(.2, .6, .2, 1) both
 }
 
 .anim-slide-right {
-    animation: slideRight 1.4s cubic-bezier(.2, .6, .2, 1) both
+    animation: slideRight 1.2s cubic-bezier(.2, .6, .2, 1) both
 }
 
 .anim-slide-left {
-    animation: slideLeft 1.4s cubic-bezier(.2, .6, .2, 1) both
+    animation: slideLeft 1.2s cubic-bezier(.2, .6, .2, 1) both
 }
 
 .anim-zoom-in {
-    animation: zoomIn 1.2s cubic-bezier(.2, .6, .2, 1) both
+    animation: zoomIn 1.0s cubic-bezier(.2, .6, .2, 1) both
 }
 
 /* .anim-rotate-in {
